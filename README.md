@@ -1,1 +1,3 @@
-# login-with-facebook
+## Facebook Login Javascript Demo 
+
+This is the simple Facebook Login Implementaion with the HTML Page
